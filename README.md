@@ -19,6 +19,4 @@ This project demonstrates skills in:
 - Building interactive dashboards
 - Extracting business insights from datasets
 
-##📊 Dashboard Preview
 
-![Dashboard](dashboard.png)
